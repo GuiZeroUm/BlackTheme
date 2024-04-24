@@ -2,9 +2,8 @@
 <h1 align="center">Dracula tema escuro</h1>
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="tela_inicial.png" alt="Logo">
-  </a>
+</div>
 
 
 <!-- Sobre o projeto -->
@@ -22,8 +21,8 @@ E depois de muita pesquisa e MUITOS testes eu cheguei no resultado que vocês es
 ## Como utilizar
 
 Primeiramente, tenha em seu vscode as seguintes extenções:
-* [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+* [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 
 ### Logo após, baixe a fonte a seguir:
 * [FiraCode](https://github.com/tonsky/FiraCode)
@@ -40,8 +39,8 @@ Primeiramente, tenha em seu vscode as seguintes extenções:
 ### Agora, após todos os passos terem sido concluidos, basta colar o seguinte código dentro de settings:
 ```sh
   "editor.fontFamily": "Fira Code",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Min Dark",
   "workbench.colorCustomizations": {
         "focusBorder": "#d6d6dd3d",
         "input.border": "#d6d6dd3d",
@@ -99,7 +98,7 @@ O comando acima irá mudar somente as cores de seu VSCODE, não alterando a font
     "editor.fontLigatures": true,
     "editor.fontSize": 18,
     "editor.lineHeight": 26,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "editor.wordWrap": "on",
     "editor.rulers": [
         80,
@@ -111,7 +110,7 @@ O comando acima irá mudar somente as cores de seu VSCODE, não alterando a font
     "git.enableSmartCommit": true,
     "tailwindCSS.emmetCompletions": true,
     "editor.stickyScroll.enabled": false,
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Min Dark",
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
