@@ -1,5 +1,5 @@
 <!-- imagem -->
-<h1 align="center">Dracula tema escuro</h1>
+<h1 align="center">Minimal Black</h1>
 <br />
 <div align="center">
     <img src="tela_inicial.png" alt="Logo">
